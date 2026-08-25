@@ -14,12 +14,10 @@ Analytical professional currently pivoting into Analytics Engineering following 
 
 <div align="center">
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/earner/earned/badge/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f)
-[![dbt Fundamentals](https://img.shields.io/badge/dbt-Fundamentals-FF6849?style=for-the-badge&logo=dbt)](https://www.credly.com/earner/earned/badge/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c)
-[![IBM Generative AI](https://img.shields.io/badge/IBM-Generative%20AI%20for%20Data%20Analysts-054ADA?style=for-the-badge&logo=ibm)](https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d)
-
-[![IBM AI Foundations](https://img.shields.io/badge/IBM-AI%20Foundations-054ADA?style=for-the-badge&logo=ibm)](https://www.credly.com/earner/earned/badge/c0e90f9e-d60e-46b2-8998-02fa5260e2bb)
-[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google)](https://www.credly.com/earner/earned/badge/038ca53c-3e7a-471a-97ee-e5dcfd336db5)
+[![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/niteshranga/niteshranga/main/aws.png)](https://www.credly.com/earner/earned/badge/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f)
+[![dbt Fundamentals](https://raw.githubusercontent.com/niteshranga/niteshranga/main/dbt_fundamentals.png)](https://www.credly.com/earner/earned/badge/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c)
+[![IBM Generative AI for Data Analysts](https://raw.githubusercontent.com/niteshranga/niteshranga/main/gen_AI.png)](https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d)
+[![IBM AI Foundations](https://raw.githubusercontent.com/niteshranga/niteshranga/main/ai_foundations.png)](https://www.credly.com/earner/earned/badge/c0e90f9e-d60e-46b2-8998-02fa5260e2bb)
 
 </div>
 
