@@ -14,11 +14,12 @@ Analytical professional currently pivoting into Analytics Engineering following 
 
 <div align="center">
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbc-8376-b2dc0ea6ab18/aws-certified-cloud-practitioner.png)](https://www.credly.com/earner/earned/badge/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f)
-[![dbt Fundamentals](https://images.credly.com/size/340x340/images/0cff97aa-fcc3-47bc-a0a3-f9cf116de566/dbt_learn_badge.png)](https://www.credly.com/earner/earned/badge/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c)
-[![IBM Generative AI for Data Analysts](https://images.credly.com/size/340x340/images/07e92c9a-6bd2-46bc-a831-c1e57b23f57a/ibm_generative_ai_for_data_analysts.png)](https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d)
-[![IBM AI Foundations for Everyone](https://images.credly.com/size/340x340/images/82e5e4b0-93f4-4471-a0d1-78c9c80cbe1c/ibm_ai_foundations_for_everyone.png)](https://www.credly.com/earner/earned/badge/c0e90f9e-d60e-46b2-8998-02fa5260e2bb)
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebf7b02f7714/GCC_badge_DATA_ANALYTICS_1000x1000.png)](https://www.credly.com/earner/earned/badge/038ca53c-3e7a-471a-97ee-e5dcfd336db5)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/earner/earned/badge/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f)
+[![dbt Fundamentals](https://img.shields.io/badge/dbt-Fundamentals-FF6849?style=for-the-badge&logo=dbt)](https://www.credly.com/earner/earned/badge/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c)
+[![IBM Generative AI](https://img.shields.io/badge/IBM-Generative%20AI%20for%20Data%20Analysts-054ADA?style=for-the-badge&logo=ibm)](https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d)
+
+[![IBM AI Foundations](https://img.shields.io/badge/IBM-AI%20Foundations-054ADA?style=for-the-badge&logo=ibm)](https://www.credly.com/earner/earned/badge/c0e90f9e-d60e-46b2-8998-02fa5260e2bb)
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=for-the-badge&logo=google)](https://www.credly.com/earner/earned/badge/038ca53c-3e7a-471a-97ee-e5dcfd336db5)
 
 </div>
 
