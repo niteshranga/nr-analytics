@@ -36,27 +36,27 @@ Analytical professional currently pivoting into Analytics Engineering following 
 <div align="center">
 
   <a href="https://kafka.apache.org/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/kafka.png" width="45" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/kafka.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://www.getdbt.com/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Dbt--Streamline.png" width="45" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Dbt--Streamline.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://www.snowflake.com/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Snowflake-Symbol.png" width="45" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Snowflake-Symbol.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://airflow.apache.org/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/airflow.png" width="45" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/airflow.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://aws.amazon.com/" target="_blank" style="margin-right:12px;">
     <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/aws%20logo.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://www.postgresql.org/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/postgresql.png" width="50" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/postgresql.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://www.tableau.com/" target="_blank"style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/tableau.png" width="45" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/tableau.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://www.python.org" target="_blank"style="margin-right:12px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" style="margin-right:12px;"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="75" style="margin-right:12px;"/></a>
   <a href="https://www.docker.com/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/docker.png" width="45" style="margin-right:12px;"/></a>
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/docker.png" width="75" style="margin-right:12px;"/></a>
   <a href="https://excel.cloud.microsoft/" target="_blank" style="margin-right:12px;">
-    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/excel.png" width="45" style="margin-right:12px;"/></a>	
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/excel.png" width="75" style="margin-right:12px;"/></a>	
   <a href="https://github.com/" target="_blank" style="margin-right:12px;">
-    <img src="https://cdn.simpleicons.org/github" width="45"/></a>
+    <img src="https://cdn.simpleicons.org/github" width="75"/></a>
 </p>
 </div>
 
