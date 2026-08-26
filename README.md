@@ -35,7 +35,7 @@ Analytical professional currently pivoting into Analytics Engineering following 
 
 <div align="center">
 
-    <a href="https://kafka.apache.org/" target="_blank" style="margin-right:12px;">
+  <a href="https://kafka.apache.org/" target="_blank" style="margin-right:12px;">
     <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/kafka.png" width="45" style="margin-right:12px;"/></a>
   <a href="https://www.getdbt.com/" target="_blank" style="margin-right:12px;">
     <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Dbt--Streamline.png" width="45" style="margin-right:12px;"/></a>
