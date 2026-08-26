@@ -14,10 +14,10 @@ Analytical professional currently pivoting into Analytics Engineering following 
 
 <div align="center">
 
-[![AWS Certified Cloud Practitioner](https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url)](https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url)
-[![dbt Fundamentals](https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url)](https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url)
-[![Google Data Analytics Professional Certificate](https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url)](https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url)
-[![IBM Generative AI for Data Analysts](https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d)](https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d)
+(https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url)](https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url)
+(https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url)](https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url)
+(https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url)](https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url)
+
 
 </div>
 
