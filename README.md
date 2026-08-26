@@ -15,17 +15,13 @@ Analytical professional currently pivoting into Analytics Engineering following 
 <p align="center"> 
 
 <a href="https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url" target="_blank" style="margin-right:15px;"> 
-<img src="https://github.com/niteshranga/nr-analytics/blob/main/img/google-data-analytics-professional-certificate.png" width="120" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate"/>
-</a> 
+  <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/google-data-analytics-professional-certificate.png" width="120" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate"/></a> 
 <a href="https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url" target="_blank" style="margin-right:15px;"> 
-<img src="https://github.com/niteshranga/nr-analytics/blob/a510337e433fa7a4696f63391fb1041dc82a5796/img/aws.png" width="120" style="object-fit: contain;" alt="AWS Certified Cloud Practitioner"/>
-</a> 
+  <img src="https://github.com/niteshranga/nr-analytics/blob/a510337e433fa7a4696f63391fb1041dc82a5796/img/aws.png" width="120" style="object-fit: contain;" alt="AWS Certified Cloud Practitioner"/></a> 
 <a href="https://credentials.getdbt.com/73e3150b-d7ae-47f7-ac0a-465cba5aa52d#acc.sB6uG5WX" target="_blank" style="margin-right:15px;"> 
-<img src="https://github.com/niteshranga/nr-analytics/blob/main/img/dbt_fundamentals.png" width="120" style="object-fit: contain;" alt="dbt Fundamentals"/>
-</a> 
+  <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/dbt_fundamentals.png" width="120" style="object-fit: contain;" alt="dbt Fundamentals"/></a> 
 <a href="https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url" target="_blank" style="margin-right:15px;"> 
-<img src="https://github.com/niteshranga/nr-analytics/blob/main/img/gen%20AI.png" width="120" style="object-fit: contain;" alt="IBM Generative AI for Data Analysts"/>
-</a> </p>
+  <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/gen%20AI.png" width="120" style="object-fit: contain;" alt="IBM Generative AI for Data Analysts"/></a> </p>
 
 </div>
 
