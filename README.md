@@ -35,22 +35,29 @@ Analytical professional currently pivoting into Analytics Engineering following 
 
 <div align="center">
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Looker Studio](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+    <a href="https://kafka.apache.org/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/kafka.png" width="45" style="margin-right:12px;"/></a>
+  <a href="https://www.getdbt.com/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Dbt--Streamline.png" width="45" style="margin-right:12px;"/></a>
+  <a href="https://www.snowflake.com/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/Snowflake-Symbol.png" width="45" style="margin-right:12px;"/></a>
+  <a href="https://airflow.apache.org/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/airflow.png" width="45" style="margin-right:12px;"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/aws%20logo.png" width="75" style="margin-right:12px;"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/postgresql.png" width="50" style="margin-right:12px;"/></a>
+  <a href="https://www.tableau.com/" target="_blank"style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/tableau.png" width="45" style="margin-right:12px;"/></a>
+  <a href="https://www.python.org" target="_blank"style="margin-right:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" style="margin-right:12px;"/></a>
+  <a href="https://www.docker.com/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/docker.png" width="45" style="margin-right:12px;"/></a>
+  <a href="https://excel.cloud.microsoft/" target="_blank" style="margin-right:12px;">
+    <img src="https://github.com/niteshranga/nr-analytics/blob/main/img/excel.png" width="45" style="margin-right:12px;"/></a>	
+  <a href="https://github.com/" target="_blank" style="margin-right:12px;">
+    <img src="https://cdn.simpleicons.org/github" width="45"/></a>
+</p>
 </div>
 
 ---
