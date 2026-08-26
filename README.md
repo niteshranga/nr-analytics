@@ -12,7 +12,15 @@ Analytical professional currently pivoting into Analytics Engineering following 
 
 ## 🎓 Certifications
 
-<p align="center"> <a href="https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url" target="_blank" style="margin-right:15px;"> <img src="https://images.credly.com/size/340x340/images/0cff97aa-fcc3-47bc-a0a3-f9cf116de566/dbt_learn_badge.png" width="120" style="object-fit: contain;" alt="dbt Fundamentals"/></a> <a href="https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url" target="_blank" style="margin-right:15px;"> <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbc-8376-b2dc0ea6ab18/aws-certified-cloud-practitioner.png" width="120" style="object-fit: contain;" alt="AWS Certified Cloud Practitioner"/></a> <a href="https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url" target="_blank" style="margin-right:15px;"> <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebf7b02f7714/GCC_badge_DATA_ANALYTICS_1000x1000.png" width="120" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate"/></a> <a href="https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d" target="_blank" style="margin-right:15px;"> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/185896752" width="120" style="object-fit: contain;" alt="IBM Generative AI for Data Analysts"/></a> </p>
+<p align="center"> 
+<a href="https://www.credly.com/badges/d51cc97e-9eb1-4ecc-bf88-ac1fcc0dff3c/public_url" target="_blank" style="margin-right:15px;"> 
+<img src="https://images.credly.com/size/340x340/images/0cff97aa-fcc3-47bc-a0a3-f9cf116de566/dbt_learn_badge.png" width="120" style="object-fit: contain;" alt="dbt Fundamentals"/>
+</a> <a href="https://www.credly.com/badges/f9f12226-5ea4-483c-ab82-f8d6eaa68a7f/public_url" target="_blank" style="margin-right:15px;"> 
+<img src="https://github.com/niteshranga/nr-analytics/blob/a510337e433fa7a4696f63391fb1041dc82a5796/img/aws.png" width="120" style="object-fit: contain;" alt="AWS Certified Cloud Practitioner"/>
+</a> <a href="https://www.credly.com/badges/038ca53c-3e7a-471a-97ee-e5dcfd336db5/public_url" target="_blank" style="margin-right:15px;"> 
+<img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebf7b02f7714/GCC_badge_DATA_ANALYTICS_1000x1000.png" width="120" style="object-fit: contain;" alt="Google Data Analytics Professional Certificate"/></a> 
+<a href="https://api.accredible.com/v1/obi/badge_assertions/73e3150b-d7ae-47f7-ac0a-465cba5aa52d" target="_blank" style="margin-right:15px;"> 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/185896752" width="120" style="object-fit: contain;" alt="IBM Generative AI for Data Analysts"/></a> </p>
 
 </div>
 
